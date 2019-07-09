@@ -1,1 +1,0 @@
-((((P_armata:26.1859,(P_rastellata:19.0014,P_rotoccipita:19.0014):7.1845):1.2942,P_bicolor:27.4801):2.3903,((P_furcata:6.2369,P_rufipes:6.2369):21.5317,(P_flavicornis:18.14,P_leviuscula:18.14):9.6286):2.1018):2.9348,((P_emmae:18.3246,P_laevigata:18.3246):13.5318,P_thrinax:31.8564):0.9488);
